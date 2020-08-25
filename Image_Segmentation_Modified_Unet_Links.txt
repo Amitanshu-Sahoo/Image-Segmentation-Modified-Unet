@@ -1,0 +1,18 @@
+IMAGE SEGMENTATION MODIFIED UNET
+
+Link to the weights of the Trained Model (Download both the files in the Folder):-
+https://drive.google.com/drive/folders/13CXN54gNwRVTKaHcJDEN6TAG84iOrO6f?usp=sharing
+
+Link to Training Images :-
+https://drive.google.com/drive/folders/1P0eIKKY4XPIN7ZMfWNJDR8x4ah6SIbpL?usp=sharing
+
+Link to Segmentation Maps :-
+https://drive.google.com/drive/folders/1tBtR4xsEWlEesMFX7fyJB9OnHwSfF53F?usp=sharing
+
+Link to Test Images :-
+https://drive.google.com/drive/folders/1DG8hLtVScTaSk4kBB3Na2a3395WX1fxE?usp=sharing
+
+Link to the Test Images Predictions :-
+https://drive.google.com/drive/folders/1WJK6cBs65pkIs-ANWJzktF4ygDRjEof9?usp=sharing
+
+
